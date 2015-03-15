@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">B00277083</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_title">Booking Online</string>
+    <string name="title_activity_confirm">Details Confirmation</string>
+
+
+    <array name="parks" >
+        <item>Select A Park</item>
+        <item>Lothian Edge Camping</item>
+        <item>Caravanning Park</item>
+        <item>Loch Doon Touring Park</item>
+        <item>Tennents Holiday Park</item>
+    </array>
+
+    <array name="accommodation" >
+        <item>Select A Type of Accommodation</item>
+        <item>caravan  35pounds/night</item>
+        <item>wigwag  25pounds/night</item>
+        <item>tented accommodation  15pounds/night</item>
+    </array>
+
+
+
+</resources>
